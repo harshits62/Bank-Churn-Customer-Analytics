@@ -98,16 +98,16 @@ The **dataset** folder contains:
 ```text
 Bank-Churn-Customer-Analytics
 │
-├── Bank_Churn_Analytics_Dashboard.pbix
-├── README.md
-│
 ├── dataset
-│   ├── Bank_Churn_Data.xlsx
-│   └── Data_Dictionary.xlsx
+│   ├── Bank_Churn_Data.csv
+│   └── Data_Dictionary.csv
 │
-└── images
-    ├── overview_dashboard.png
-    └── risk_analysis_dashboard.png
+├── images
+│   ├── overview_dashboard.png
+│   └── risk_analysis_dashboard.png
+│
+├── Bank_Churn_Analytics_Dashboard.pbix
+└── README.md
 ```
 
 ---
