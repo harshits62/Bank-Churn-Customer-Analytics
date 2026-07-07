@@ -49,7 +49,6 @@ This project analyzes customer behavior and provides actionable insights through
 - Risk Heat Map
 - High-Risk Customer Identification
 - Active vs Inactive Customer Analysis
-- Top 10 Highest Risk Customers
 
 ---
 
