@@ -76,8 +76,8 @@ This project analyzes customer behavior and provides actionable insights through
 
 The **dataset** folder contains:
 
-- **Bank_Churn_Data.xlsx** – Original customer dataset
-- **Data_Dictionary.xlsx** – Description of all dataset columns and their meanings
+- **Bank_Churn_Data.csv** – Original customer dataset
+- **Data_Dictionary.csv** – Description of all dataset columns and their meanings
 
 > **Note:** All data cleaning, transformations, calculated columns, DAX measures, and the custom Risk Score model were developed within Power BI using Power Query and DAX.
 
