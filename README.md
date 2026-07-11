@@ -115,4 +115,4 @@ Bank-Churn-Customer-Analytics
 
 **Harshit Singh**
 
-Thank you for taking the time to explore this project. Feedback and suggestions are always welcome.
+Thank you for taking the time to explore this project.
